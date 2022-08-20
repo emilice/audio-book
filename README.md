@@ -1,2 +1,5 @@
 # audio book
- pyttsx3 and PyPDF2 
+
+ pip install pyttsx3 
+ 
+ pip install PyPDF2 
